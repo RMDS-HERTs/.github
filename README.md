@@ -131,7 +131,6 @@ Saturday                 646 commits         ████░░░░░░░�
 Sunday                   932 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
 ```
 
-
 ## Special Thanks 🙇
 - [Shabih Haider](https://github.com/zzetao) for making the amazing site for this repo!
 
