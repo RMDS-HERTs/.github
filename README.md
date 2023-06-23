@@ -2,6 +2,14 @@
 Research Methods in Data Science @ Herts
 
 We are team of Research Methods in Data Science at University of Hertfordshire .
+### Team Members:
+ - Shabih Haider 
+ - Shahzaib Nazir 
+ - Adnan Ali 
+ - Muhammad Usman Khan  
+ - Anilkumar Goud Easum 
+ - Sana Anwar 
+
 
 - 👯 We are looking to collaborate on open-source projects
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711634-f9943192-2b39-4f8f-921a-00d6821fc7a9.png'> Top Programming Languages on My Repos
